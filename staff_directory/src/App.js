@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Card from "./components/Card";
 import Jumbotron from "./components/Jumbotron";
-import Navbar from "./components/NavBar";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
